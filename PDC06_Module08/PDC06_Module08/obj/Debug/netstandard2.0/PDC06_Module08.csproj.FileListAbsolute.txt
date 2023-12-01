@@ -13,3 +13,6 @@ C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debu
 C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debug\netstandard2.0\PDC06_Module08.dll
 C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debug\netstandard2.0\refint\PDC06_Module08.dll
 C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debug\netstandard2.0\PDC06_Module08.pdb
+C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debug\netstandard2.0\SearchPage.xaml.g.cs
+C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debug\netstandard2.0\UpdatePage.xaml.g.cs
+C:\Users\User\source\repos\PDC06_Module08\PDC06_Module08\PDC06_Module08\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
